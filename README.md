@@ -7,11 +7,13 @@
 ![Lint](https://github.com/UltiRequiem/shorty/workflows/Lint/badge.svg)
 
 You can get this package by [nest.land](https://nest.land/package/shorty),
-[deno.land](https://deno.land/x/shorty) or [denopkg](https://denopkg.com/UltiRequiem/shorty/mod.ts).
+[deno.land](https://deno.land/x/shorty) or
+[denopkg](https://denopkg.com/UltiRequiem/shorty/mod.ts).
 
 ## Usage
 
-This package exposes just one function, [shorty](https://github.com/UltiRequiem/shorty/blob/main/mod.ts#L3).
+This package exposes just one function,
+[shorty](https://github.com/UltiRequiem/shorty/blob/main/mod.ts#L3).
 
 ```typescript
 import shorty from "https://deno.land/x/shorty/mod.ts";
