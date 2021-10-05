@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Lines Of Code](https://img.shields.io/tokei/lines/github.com/UltiRequiem/shorty?color=blue&label=Total%20Lines)
 ![CodeQL](https://github.com/UltiRequiem/shorty/workflows/CodeQL/badge.svg)
-![Lint](https://github.com/UltiRequiem/shory/workflows/Lint/badge.svg)
+![Lint](https://github.com/UltiRequiem/shorty/workflows/Lint/badge.svg)
 
 You can get this package by [nest.land](https://nest.land/package/shorty),
 [deno.land](https://deno.land/x/shorty) or [denopkg](https://denopkg.com/UltiRequiem/shorty/mod.ts).
@@ -46,8 +46,8 @@ deno install --allow-net https://x.nest.land/shorty@1.1.1/mod.ts
 ### Usage
 
 ```bash
-$ shorty https://stackoverflow.com/questions/5717093/check-if-a-javascript-string-is-a-url
-Original URL: https://stackoverflow.com/questions/5717093/check-if-a-javascript-string-is-a-url
+$ shorty https://stackoverflow.com/questions/5717093
+Original URL: https://stackoverflow.com/questions/5717093
 Short URL: https://cleanuri.com/GeWAQO
 ```
 
