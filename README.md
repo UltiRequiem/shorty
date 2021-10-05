@@ -34,7 +34,7 @@ deno install --allow-net https://deno.land/x/shorty/cli.ts
 - [denopkg.com](https://denopkg.com/UltiRequiem/shorty/cli.ts):
 
 ```bash
-deno install --allow-net https://denopkg.com/UltiRequiem/net/cli.ts
+deno install --allow-net https://denopkg.com/UltiRequiem/shorty/cli.ts
 ```
 
 - [nest.land](https://x.nest.land/shorty/cli.ts):
