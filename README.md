@@ -21,6 +21,38 @@ const shortUrl = await shorty("https://github.com/UltiRequiem/shorty");
 console.log(shortUrl); // https://cleanuri.com/OjXAO1
 ```
 
+## CLI Tool
+
+### Installation
+
+- [deno.land/x](https://deno.land/x/shory/cli.ts):
+
+```bash
+deno install --allow-net https://deno.land/x/shorty/cli.ts
+```
+
+- [denopkg.com](https://denopkg.com/UltiRequiem/shorty/cli.ts):
+
+```bash
+deno install --allow-net https://denopkg.com/UltiRequiem/net/cli.ts
+```
+
+- [nest.land](https://x.nest.land/shorty/cli.ts):
+
+```bash
+deno install --allow-net https://x.nest.land/shorty@1.1.1/mod.ts
+```
+
+### Usage
+
+```bash
+$ shorty https://stackoverflow.com/questions/5717093/check-if-a-javascript-string-is-a-url
+Original URL: https://stackoverflow.com/questions/5717093/check-if-a-javascript-string-is-a-url
+Short URL: https://cleanuri.com/GeWAQO
+```
+
+> It is printed with colors :)
+
 ### License
 
 [This project](https://deno.land/x/template) is licensed under the
